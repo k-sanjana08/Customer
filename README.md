@@ -15,8 +15,6 @@ This project highlights practical skills commonly required for **Data Analyst / 
 **Description:**  
 The dataset contains structured records used to analyze trends, performance metrics, and key business insights.
 
-> **Note:** Sensitive or proprietary data has been excluded or anonymized.
-
 ---
 
 ## Tools & Technologies
@@ -24,20 +22,16 @@ The dataset contains structured records used to analyze trends, performance metr
   - Pandas  
   - NumPy  
   - Matplotlib  
-  - Seaborn  
 
 - **Databases:**  
-  - PostgreSQL  
-  - MySQL  
-  - SQL Server  
+  - PostgreSQL
 
 - **Data Visualization:** Power BI  
 
 - **Reporting:**  
   - Analytical report (PDF / Doc)  
-  - Presentation created using **Gamma**  
 
-- **Environment:** Jupyter Notebook / VS Code  
+- **Environment:** VS Code  
 
 ---
 
@@ -58,7 +52,7 @@ The dataset contains structured records used to analyze trends, performance metr
 - Created derived features to support analysis  
 
 ### 4. SQL Analysis
-- Imported cleaned data into PostgreSQL / MySQL / SQL Server  
+- Imported cleaned data into PostgreSQL
 - Wrote SQL queries to answer business questions  
 - Used joins, aggregations, filtering, and window functions  
 
@@ -69,7 +63,6 @@ The dataset contains structured records used to analyze trends, performance metr
 
 ### 6. Reporting & Presentation
 - Created a structured analytical report summarizing insights  
-- Developed a professional presentation using **Gamma**  
 - Focused on clarity, storytelling, and actionable outcomes  
 
 ---
@@ -80,8 +73,6 @@ The Power BI dashboard provides:
 - Trend analysis over time  
 - Category and segment comparisons  
 - Interactive filters for deeper exploration  
-
-📌 *Screenshots or a Power BI Service link can be added here.*
 
 ---
 
@@ -94,4 +85,3 @@ This project demonstrates the ability to move from **raw data → insights → d
 
 ---
 
-## Project Structure
